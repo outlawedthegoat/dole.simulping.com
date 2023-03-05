@@ -5,3 +5,6 @@ ipaddress
 macaddress
 xboxgamertag
 displayname
+
+Then, fetches a table based on the data submitted
+shows 9 rows per page, multiple pages are set out based on how many accounts have that keyword, or input parameter in them.
