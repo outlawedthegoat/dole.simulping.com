@@ -1,16 +1,4 @@
-Pulls up many panels for different account interaction tools.
-panel names:
-Account Summary
-User Notes
-Badges & Settings
-Sessions & Devices
-Password Reset
-Permanently Delete User
-Safety Controls
-Give And Take/Give or Take & Xbox Spending Budget
-Account summary:
-the account summary will pull up with this information:
-User NamE
-Moderation Status
-User ID (With search property)
-User Name (With ability to search usefs by use)
+.Users Account Summary
+
+
+loads FilteredUserSearchResult
